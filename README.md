@@ -10,12 +10,33 @@
 
 ## Stack
 
-**Back-end:** Java
+**Back-end:** Java, Lombok
 
 ---
 
+# Desafio de abstração de domínios de um Bootcamp
 
+O objetivo deste desafio é desenvolver uma aplicação que implemente os domínios utilizados por um bootcamp.
 
+---
+
+## Aprendizados
+
+Este projeto marca um desafio do bootcamp de Java. Onde percorremos uma jornada de diversos aprendizados como:
+
+- Sintaxe básica da linguagem Java;
+- Conhecimentos básicos de Java;
+- Programação Orientada a Objetos;
+- Métodos e tipos de Métodos;
+- Tipagem de dados;
+- Tratamento de Execões;
+- Iterações com laços de repetição;
+- Desvio condicionais;
+- Modelagem UML;
+- Pensamento Analítico
+- Gerenciamento de Dependências
+- Maven
+- Lombok
 
 ## Licença / License
 
